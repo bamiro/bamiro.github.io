@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/Users/tikkybamiro/Library/Mobile Documents/com~apple~CloudDocs/Documents/Data Analytics Portfolio/EU Transport/DB Browser/RailDens.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="2153"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,9:mainBusGrowth"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="AnnualGDPGrowth" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="1"/></sort><column_widths><column index="1" value="37"/><column index="2" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Bus2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="35"/><column index="3" value="96"/><column index="4" value="149"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="BusGrowth" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="88"/><column index="2" value="150"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="BusPerCapita" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="37"/><column index="3" value="96"/><column index="4" value="149"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="GDP" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="5" mode="0"/></sort><column_widths><column index="1" value="88"/><column index="2" value="77"/><column index="3" value="37"/><column index="4" value="42"/><column index="5" value="105"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="GDP (2015$ constant)" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="77"/><column index="3" value="37"/><column index="4" value="42"/><column index="5" value="105"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="GDPGrowth" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="88"/><column index="2" value="37"/><column index="3" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="GrowthRank" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="34"/><column index="3" value="145"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Land Area" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="77"/><column index="3" value="37"/><column index="4" value="42"/><column index="5" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="LandArea" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="77"/><column index="3" value="37"/><column index="4" value="42"/><column index="5" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="New buses" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="77"/><column index="3" value="37"/><column index="4" value="73"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="NewBuses" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="77"/><column index="3" value="37"/><column index="4" value="73"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PerCapitaGDP" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="37"/><column index="3" value="174"/><column index="4" value="146"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Population" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="77"/><column index="3" value="37"/><column index="4" value="42"/><column index="5" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Rail" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="77"/><column index="3" value="37"/><column index="4" value="42"/><column index="5" value="66"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Rail lines" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="77"/><column index="3" value="37"/><column index="4" value="42"/><column index="5" value="66"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RailGrowth" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="207"/><column index="3" value="268"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RailPer10000" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="115"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="T_GDP" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="88"/><column index="2" value="77"/><column index="3" value="37"/><column index="4" value="42"/><column index="5" value="105"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="V_RAilDensity2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="73"/><column index="3" value="60"/><column index="4" value="88"/><column index="5" value="173"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="V_RailDensity2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="73"/><column index="3" value="60"/><column index="4" value="88"/><column index="5" value="173"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Rail Density">/*
+DESCRIPTION: calculating rail density per 100km squared of land area as of 2021 in descending order
+*/
+CREATE TABLE RailDensity
+AS
+SELECT
+	L.CountryName,
+	Round(R.RailLines/(L.LandAreaKmSqr/100),1) AS 'Rail Density Per 100km Squared'
+FROM
+	LandArea L
+INNER JOIN
+	Rail R
+ON
+	L.CountryName = R.CountryName AND L.Year = R.Year
+WHERE
+	R.Year = 2021
+	AND
+	R.RailLines IS NOT NULL
+ORDER BY
+	&quot;Rail Density Per 100km Squared&quot; DESC
+	
+	
+	</sql><sql name="GDP Growth">/*
+DESCRIPTION: GDP growth rate by country
+*/
+CREATE TABLE GDPGrowth
+AS
+WITH
+	GDP_CTE
+AS (
+		SELECT 
+			CountryName,
+			Year,
+			GDP,
+			CAST (LAG(GDP) OVER (PARTITION BY CountryName ORDER BY Year) AS REAL) AS PreviousYearGDP
+		FROM
+			T_GDP
+)
+SELECT
+	CountryName,
+	Year,
+	CAST (round(((GDP_CTE.GDP - PreviousYearGDP)/PreviousYearGDP)*100,2) AS REAL) AS GDPGrowthRate
+FROM
+	GDP_CTE
+WHERE
+	PreviousYearGDP IS NOT NULL
+ORDER BY
+&quot;Year&quot; DESC
+
+
+
+
+</sql><sql name="Aggregate Growth">/*
+DESCRIPTION: Aggregate GDP Growth Rate Across EU
+*/
+CREATE TABLE AnnualGDPGrowth
+AS
+
+WITH
+	GDP_CTE
+AS (
+		SELECT 
+			Year,
+			sum(GDP) GDP,
+			LAG(sum(GDP)) OVER (PARTITION BY CountryName ORDER BY Year) AS PreviousYearGDP
+		FROM
+			T_GDP
+		GROUP BY
+			Year
+)
+SELECT
+	Year,
+	round(avg(((GDP_CTE.GDP - PreviousYearGDP)/PreviousYearGDP)*100),2) AS GDPGrowthRate
+FROM
+	GDP_CTE
+WHERE
+	PreviousYearGDP IS NOT NULL
+GROUP BY
+	&quot;Year&quot;
+ORDER BY
+&quot;YEAR&quot; 
+
+</sql><sql name="Rail per Capita">/*
+DESCRIPTION: rail per 10,000 people for each country as of 2021 (excluding Estonia due to lack of rail data)
+*/
+CREATE TABLE RailPer10000
+AS
+SELECT
+	Rail.CountryName,
+	round(RailLines/(CAST (TotalPopulation AS REAL)/10000),2) AS &quot;Rail Per 1000 People&quot;
+FROM
+	Rail
+JOIN
+	Population
+ON
+ Population.CountryName = Rail.CountryName AND Population.Year = Rail.Year
+WHERE
+	Population.Year = 2021 AND RailLines IS NOT NULL
+ORDER BY
+&quot;Rail Per 1000 People&quot; DESC</sql><sql name="Change in Rail">/*
+DESCRIPTION: change in rail lines from 1995 to 2021 by CountryCode (excluding estonia due to lack of data)
+*/
+CREATE TABLE RailGrowth
+AS
+WITH Rail_CTE AS
+	(SELECT
+		CountryName,
+		Year,
+		CAST (RailLines AS REAL),
+		(CAST (RailLines AS REAL) - lag(CAST (RailLines AS REAL)) OVER (PARTITION BY CountryName ORDER BY Year)) AS &quot;Change&quot;,
+		(CAST (RailLines AS REAL) - lag(CAST (RailLines AS REAL)) OVER (PARTITION BY CountryName ORDER BY Year))/lag(CAST (RailLines AS REAL)) OVER (PARTITION BY CountryName ORDER BY Year)*100 AS PercentageChange
+	FROM
+	Rail
+	WHERE
+	Year = 2021 OR Year = 1995
+	)
+SELECT
+	CountryName,
+	Round(Change,3) AS &quot;Change in km of rail from 1995 to 2021&quot;,
+	Round(PercentageChange,3) AS &quot;Percentage change in km of rail from 1995 to 2021&quot;
+FROM
+	Rail_CTE
+WHERE
+	Change IS NOT NULL
+ORDER BY
+	PercentageChange DESC
+
+
+</sql><sql name="Per Capita Growth">/*
+DESCRIPTION: annual GDP Per capita growth rate by country
+*/
+
+CREATE TABLE PerCapitaGDP AS
+WITH
+	GDP_CTE
+AS (
+		SELECT 
+			G.CountryName,
+			G.Year,
+			GDP,
+			TotalPopulation,
+			GDP/TotalPopulation AS PerCapitaGDP,
+			CAST (LAG(GDP/TotalPopulation) OVER (PARTITION BY G.CountryName ORDER BY G.Year) AS REAL) AS LagPerCap
+		FROM
+			T_GDP G
+		JOIN
+			Population P
+		ON 
+		G.CountryName = P.CountryName AND G.Year = P.Year
+)
+SELECT
+	CountryName,
+	Year,
+	round(&quot;PerCapitaGDP&quot;,2) AS 'Real GDP Per Capita',
+	CAST (round(((GDP_CTE.PerCapitaGDP - LagPerCap)/LagPerCap)*100,2) AS REAL) AS 'GDP Per Capita Growth'
+FROM
+	GDP_CTE
+WHERE
+	LagPerCap IS NOT NULL
+ORDER BY
+CountryName
+
+
+
+
+</sql><sql name="Buses per Capita">/*
+DESCRIPTION: number of buses per 1000 people for each EU country, by Year
+*/
+CREATE TABLE 
+	BusPerCapita AS
+	
+WITH NewBuses_CTE AS
+	(
+	SELECT
+		N.CountryName CountryName,
+		N.Year Year,
+		lag((N.BusQuantity/(P.TotalPopulation/1000))) OVER (PARTITION BY N.CountryName ORDER BY N.Year) AS BusLag,
+		N.BusQuantity/(P.TotalPopulation/1000) AS BusPer1000
+	FROM
+		NewBuses N
+	JOIN
+		Population P
+	ON
+		N.CountryName = P.CountryName AND N.Year = p.Year
+		)
+
+SELECT
+	CountryName,
+	Year,
+	round(BusPer1000, 2) AS &quot;Buses Per Capita&quot;,
+	round(((BusPer1000 - BusLag)/BusLag)*100,2) AS &quot;Change in Buses per Capita&quot;
+FROM
+	NewBuses_CTE
+</sql><sql name="2021 Buses per capita">/*
+DESCRIPTION: number of buses per 1000 people for each EU country, as of 2021
+*/
+CREATE TABLE Bus2021 AS
+WITH NewBuses_CTE AS
+	(
+	SELECT
+		N.CountryName CountryName,
+		N.Year Year,
+		lag((N.BusQuantity/(P.TotalPopulation/1000))) OVER (PARTITION BY N.CountryName ORDER BY N.Year) AS BusLag,
+		N.BusQuantity/(P.TotalPopulation/1000) AS BusPer1000
+	FROM
+		NewBuses N
+	JOIN
+		Population P
+	ON
+		N.CountryName = P.CountryName AND N.Year = p.Year
+		)
+
+SELECT
+	CountryName,
+	Year,
+	round(BusPer1000, 2) AS &quot;Buses Per Capita&quot;
+FROM
+	NewBuses_CTE
+WHERE
+	Year = 2021
+</sql><sql name="SQL 35">/*
+DESCRIPTION: Percentage change in the number of buses per 1000 people between 1996 and 2021 (exluding luxembourg due to lack of data)
+*/
+CREATE TABLE BusGrowth AS
+WITH Bus_CTE AS
+(
+	SELECT
+		N.CountryName Country,
+		N.Year Year,
+		CAST(BusQuantity AS REAL) AS '2021Bus',
+		CAST(lag(BusQuantity) OVER (PARTITION BY N.CountryName ORDER BY N.Year) AS REAL) AS '1995Bus'
+	FROM
+		NewBuses N
+	JOIN
+		Population P
+	ON
+		N.CountryName = P.CountryName AND N.Year = p.Year
+	WHERE
+		N.Year = 1995 OR N.Year = 2021
+)
+
+SELECT
+	Country,
+	round(((&quot;2021Bus&quot;-&quot;1995Bus&quot;)/&quot;1995Bus&quot;)*100,2) AS 'Change in Buses Per Capita'
+FROM
+	Bus_CTE
+WHERE
+	&quot;Change in Buses Per Capita&quot; IS NOT NULL
+</sql><sql name="SQL 36">/* 
+DESCRIPTION: Ranking countries by average growth in transportation provision from 1995 to 2021
+*/
+CREATE TABLE GrowthRank AS
+SELECT
+	B.Country,
+	RANK() OVER (ORDER BY (&quot;Change in Buses Per Capita&quot;+&quot;Percentage change in km of rail from 1995 to 2021&quot;)/2 DESC) Rank,
+	(&quot;Change in Buses Per Capita&quot;+&quot;Percentage change in km of rail from 1995 to 2021&quot;)/2 AS 'Average Transport Growth'
+FROM
+	BusGrowth B
+JOIN
+	RailGrowth R
+ON
+	B.Country = R.CountryName
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
